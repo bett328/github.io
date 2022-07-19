@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T09:32:35.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IMAUWPLpg3W1ELzsp2Vq" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T09:38:41.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9LRm8WYSDPjDqARAfOl4" version="20.1.1" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="1636" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -219,7 +219,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tVl8y4RNRxqrjb12IxKI-286" value="Оценка от 0 до 30,&lt;br&gt;&lt;b&gt;Отказ&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="tVl8y4RNRxqrjb12IxKI-286" value="Оценка от 0 до 30,&lt;br&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="720" width="145" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tVl8y4RNRxqrjb12IxKI-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -233,7 +233,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tVl8y4RNRxqrjb12IxKI-288" value="Оценка от 70 до 99,&lt;br&gt;&lt;b&gt;Одобрение&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="tVl8y4RNRxqrjb12IxKI-288" value="Оценка от 70 до 99,&lt;br&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="480" width="145" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tVl8y4RNRxqrjb12IxKI-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.115;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tVl8y4RNRxqrjb12IxKI-291" target="tVl8y4RNRxqrjb12IxKI-233">
@@ -247,6 +247,15 @@
         </mxCell>
         <mxCell id="tVl8y4RNRxqrjb12IxKI-291" value="&lt;b&gt;Дополнительный анализ&lt;br&gt;&amp;nbsp;заемщиков&lt;/b&gt; &lt;br&gt;(для клиентов&lt;br&gt;&amp;nbsp;с оценкой&amp;nbsp;от 31 до 69, &lt;br&gt;решения в блоке принимаются вручную)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="570" width="310" height="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tVl8y4RNRxqrjb12IxKI-307" value="&lt;b&gt;Отказ или одобрение&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="524" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tVl8y4RNRxqrjb12IxKI-308" value="&lt;b style=&quot;&quot;&gt;Одобрение&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="440" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tVl8y4RNRxqrjb12IxKI-309" value="&lt;b style=&quot;&quot;&gt;Отказ&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="690" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
